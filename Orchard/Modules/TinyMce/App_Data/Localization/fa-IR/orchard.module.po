@@ -1,0 +1,53 @@
+# Orchard resource strings - fa-IR
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "The TinyMCE module enables rich text contents to be created using a "What You See Is What You Get" user interface."
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "TinyMce.Name"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "TinyMce"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "TinyMce.Description"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "TinyMCE HTML WYSIWYG editor."
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "TinyMce.Category"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "Input Editor"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/TinyMce/Module.txt"
+msgid "TinyMce"
+msgstr ""
+
+#: ~/Modules/TinyMce/Views/Body-Html.Editor.cshtml
+#| msgid "Insert/Update Media"
+msgctxt "~/Modules/TinyMce/Views/Body-Html.Editor.cshtml"
+msgid "Insert/Update Media"
+msgstr "درج/به روز رسانی رسانه"
+

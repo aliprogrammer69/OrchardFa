@@ -1,0 +1,563 @@
+# Orchard resource strings - fa-IR
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widgets"
+msgstr "ابزار"
+
+#: Orchard.Widgets.Handlers.LayerHintHandler
+#| msgid "Would you like to <a href=\"{0}\">add a widget layer</a> for \"{1}\"?"
+msgctxt "Orchard.Widgets.Handlers.LayerHintHandler"
+msgid "Would you like to <a href=\"{0}\">add a widget layer</a> for \"{1}\"?"
+msgstr "آیا شما می خواهید که <a href=\"{0}\">اضافه کنید یک لایه ابزار</a> برای \"{1{\"?"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml
+#| msgid "These widgets aren't going to appear anywhere because they're missing the CommonPart from their content type. To fix these widgets, if you still want to keep them around, start by fixing their <a href=\"{0}\">Content Types</a>."
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "These widgets aren't going to appear anywhere because they're missing the CommonPart from their content type. To fix these widgets, if you still want to keep them around, start by fixing their <a href=\"{0}\">Content Types</a>."
+msgstr " ابن ابزارها در هیچ نقطه ای ظاهر نمی شوند زیراآنها بخش مشترکشان را از نوع محتوایشان از دست می دهند.برای درست کردن این ابزارها اگر شما هنوز هم می خواهید آنها را نگه دارید با درست کردن آنها توسط <a href=\"{0}\"> انواع محتوا </a> شروع کنید. "
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.PageLayerHinting.Name"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Page Layer Hinting"
+msgstr "در حال اشاره به لایه صفحه"
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.PageLayerHinting.Description"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Adds a notification after creating a new Page with a direct link to create a Widget Layer for that specific page by URL."
+msgstr "اضافه کنید یک اطلاع را پس از ایجاد یک صفحه جدید با یک لینک مستقیم برای ایجاد یک لایه ابزار برای آن صفحه مشخص توسط آدرس صفحه. "
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.PageLayerHinting.Category"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget"
+msgstr "ابزار"
+
+#: Orchard.Widgets.Commands.LayerCommands
+#| msgid "Creating Layer {0}"
+msgctxt "Orchard.Widgets.Commands.LayerCommands"
+msgid "Creating Layer {0}"
+msgstr "ایجاد لایه{0}"
+
+#: Orchard.Widgets.Commands.LayerCommands
+#| msgid "Layer created successfully."
+msgctxt "Orchard.Widgets.Commands.LayerCommands"
+msgid "Layer created successfully."
+msgstr "لایه با موفقیت ایجاد شد."
+
+#: Orchard.Widgets.Commands.WidgetCommands
+#| msgid "Creating widget failed : type {0} was not found. Supported widget types are: {1}."
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Creating widget failed : type {0} was not found. Supported widget types are: {1}."
+msgstr "ایجاد ابزار ناموفق بود :نوع {0} پیدا نشد.انواع ابزار پشتیبانی شده عبارتند از :{1}."
+
+#: Orchard.Widgets.Commands.WidgetCommands
+#| msgid "Creating widget failed : layer {0} was not found."
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Creating widget failed : layer {0} was not found."
+msgstr "ایجاد ابزار ناموفق بود :لایه {0} پیدا نشد."
+
+#: Orchard.Widgets.Commands.WidgetCommands
+#| msgid "Widget created successfully."
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Widget created successfully."
+msgstr "ابزار با موفقیت ایجاد شد."
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "There are no widget layers defined. A layer will need to be added in order to add widgets to any part of the site."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "There are no widget layers defined. A layer will need to be added in order to add widgets to any part of the site."
+msgstr "هیچ لایه ابزار مشخصی وجود ندارد.برای افزودن ابزارها به هر بخش سایت یک لایه باید افزوده شود."
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Need a zone specified for widget placement."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Need a zone specified for widget placement."
+msgstr "یک ناحیه مشخص برای قرار دادن ابزار مورد نیاز است."
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Your {0} has been added."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been added."
+msgstr "{0} شما اضافه شده اند."
+
+#: Orchard.Widgets.Handlers.LayerHintHandler
+#| msgid "A widget layer for \"{0}\" at \"{1}\"."
+msgctxt "Orchard.Widgets.Handlers.LayerHintHandler"
+msgid "A widget layer for \"{0}\" at \"{1}\"."
+msgstr "\"{1}\"یک لایه ابزار برای \"{0}\" در ."
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml
+#| msgid "Current Layer:"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Current Layer:"
+msgstr "لایه فعلی:"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml
+#| msgid "Show"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Show"
+msgstr "نمایش"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml
+#| msgid "Add a new layer..."
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Add a new layer..."
+msgstr "افزودن یک لایه جدید..."
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml
+#| msgid "Zones for other enabled themes."
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgid "Zones for other enabled themes."
+msgstr "نواحی برای پوسته های دیگر  فعال شدند. "
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml
+#| msgid "Widgets in these zones will not appear anywhere when your currently active theme is applied. They might still appear in selectively applied (e.g. mobile) themes."
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgid "Widgets in these zones will not appear anywhere when your currently active theme is applied. They might still appear in selectively applied (e.g. mobile) themes."
+msgstr "ابزارها در این نواحی در هیچ نقطه ای ظاهر نمی شوند تا زمانیکه شما در حال استفاده پوسته فعال باشید.آنها ممکن است در پوسته های بکار برده شده انتخابی (بعنوان مثال تلفن همراه) ظاهر شوند. "
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml
+#| msgid "Widgets with problems."
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "Widgets with problems."
+msgstr "ابزارهایی با مشکلات."
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "Remove"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml
+#| msgid "Add"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Add"
+msgstr "افزودن"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml
+#| msgid "Move to current layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move to current layer"
+msgstr "انتقال به لایه فعلی"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Remove"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml
+#| msgid "Move up"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move up"
+msgstr "حرکت به بالا"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml
+#| msgid "Move down"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move down"
+msgstr "حرکت به پائین"
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetSimplePreview.cshtml
+#| msgid "{0} zone preview"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetSimplePreview.cshtml"
+msgid "{0} zone preview"
+msgstr "پیش نمایش ناحیه {0}"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml
+#| msgid "Choose A Widget"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgid "Choose A Widget"
+msgstr "انتخاب یک ابزار"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml
+#| msgid "There are no widgets available to add."
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgid "There are no widgets available to add."
+msgstr " هیچ ابزاری برای افزودن در دسترس نسیت."
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "Widgets"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Widgets"
+msgstr "ابزارها"
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.ControlWrapper.Name"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget Control Wrapper"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.ControlWrapper.Description"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Add an Edit button on the front-end for authenticated users"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.ControlWrapper.Category"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget"
+msgstr ""
+
+#: Orchard.Widgets.Drivers.WidgetPartDriver
+#| msgid "Title can't be empty."
+msgctxt "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgid "Title can't be empty."
+msgstr ""
+
+#: Orchard.Widgets.Drivers.WidgetPartDriver
+#| msgid "A Widget with the same Name already exists."
+msgctxt "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgid "A Widget with the same Name already exists."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/WidgetLayerVisibility.cshtml
+#| msgid "All Layers:"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayerVisibility.cshtml"
+msgid "All Layers:"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "The name of the Layer as it will be displayed in the admin pages."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "The name of the Layer as it will be displayed in the admin pages."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "Some text describing the purpose of this Layer."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Some text describing the purpose of this Layer."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "An expression that evaluates to true when the widgets in this layer must be displayed. See <a href=\"http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer\">http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer</a> for more information."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "An expression that evaluates to true when the widgets in this layer must be displayed. See <a href=\"http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer\">http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer</a> for more information."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "The Zone in the Layout where the Widget will be rendered."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The Zone in the Layout where the Widget will be rendered."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "The Layer where the Widget when be rendered."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The Layer where the Widget when be rendered."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "The position of the Widget inside the Zone."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The position of the Widget inside the Zone."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "The title of the Widget."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The title of the Widget."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Check to render the title on the front-end, uncheck to hide"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Check to render the title on the front-end, uncheck to hide"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "The technical name of the Widget, used for css class and alternates."
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The technical name of the Widget, used for css class and alternates."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "An implementation of widgets for Orchard."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.Name"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widgets"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.Description"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "An implementation of widgets."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Module.txt
+#| msgid "Orchard.Widgets.Category"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget"
+msgstr ""
+
+#: Orchard.Widgets.AdminMenu
+#| msgid "Widgets"
+msgctxt "Orchard.Widgets.AdminMenu"
+msgid "Widgets"
+msgstr "ابزارها"
+
+#: Orchard.Widgets.AdminMenu
+#| msgid "Configure"
+msgctxt "Orchard.Widgets.AdminMenu"
+msgid "Configure"
+msgstr "پیکربندی"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Layer not found: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Layer not found: {0}"
+msgstr "لایه پیدا نشد :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Moving widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Moving widget failed: {0}"
+msgstr "جابجایی ابزار ناموفق بود :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Creating widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Creating widget failed: {0}"
+msgstr "ایجاد ابزار ناموفق بود :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Your {0} has been created."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been created."
+msgstr "{0} شما ایجاد شده است."
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Creating layer failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Creating layer failed: {0}"
+msgstr "ایجاد لایه ناموفق بود :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Editing layer failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Editing layer failed: {0}"
+msgstr "ویرایش لایه ناموفق بود :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Your {0} has been saved."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been saved."
+msgstr "{0} شما ذخیره شده است."
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Layer was successfully deleted"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Layer was successfully deleted"
+msgstr "لایه با موفقیت حذف شد"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Removing Layer failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Removing Layer failed: {0}"
+msgstr "حذف لایه ناموفق بود: {0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Widget not found: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Widget not found: {0}"
+msgstr "ابزار پیدا نشد: {0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Editing widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Editing widget failed: {0}"
+msgstr "ویرایش ابزار ناموفق بود :{0}"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Widget was successfully deleted"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Widget was successfully deleted"
+msgstr "ابزار با موفقیت حذف شد"
+
+#: Orchard.Widgets.Controllers.AdminController
+#| msgid "Removing Widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Removing Widget failed: {0}"
+msgstr "حذف ابزار ناموفق بود: {0}"
+
+#: Orchard.Widgets.Drivers.LayerPartDriver
+#| msgid "A Layer with the same name already exists"
+msgctxt "Orchard.Widgets.Drivers.LayerPartDriver"
+msgid "A Layer with the same name already exists"
+msgstr "لایه ای با این نام هم اکنون وجود دارد"
+
+#: Orchard.Widgets.Drivers.LayerPartDriver
+#| msgid "The rule is not valid: {0}"
+msgctxt "Orchard.Widgets.Drivers.LayerPartDriver"
+msgid "The rule is not valid: {0}"
+msgstr "دستور نا معتبر است: {0}"
+
+#: Orchard.Widgets.Filters.WidgetFilter
+#| msgid "An error occured during layer evaluation on: {0}"
+msgctxt "Orchard.Widgets.Filters.WidgetFilter"
+msgid "An error occured during layer evaluation on: {0}"
+msgstr " یک خطا رخ داده  در طول ارزیابی لایه در: {0}"
+
+#: Orchard.Widgets.RuleEngine.RuleManager
+#| msgid "There are currently not scripting engine enabled"
+msgctxt "Orchard.Widgets.RuleEngine.RuleManager"
+msgid "There are currently not scripting engine enabled"
+msgstr "در حال حاضر موتور برنامه نویسی فعالی وجود ندارد"
+
+#: Orchard.Widgets.RuleEngine.RuleManager
+#| msgid "Expression is not a boolean value"
+msgctxt "Orchard.Widgets.RuleEngine.RuleManager"
+msgid "Expression is not a boolean value"
+msgstr "عبارت یک مقدار بولی نیست "
+
+#: ~/Modules/Orchard.Widgets/Views/Widget.ControlWrapper.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Widgets/Views/Widget.ControlWrapper.cshtml"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ~/Modules/Orchard.Widgets/Views/Widget.DeleteButton.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Widgets/Views/Widget.DeleteButton.cshtml"
+msgid "Delete"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/AddLayer.cshtml
+#| msgid "Add Layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/AddLayer.cshtml"
+msgid "Add Layer"
+msgstr "افزودن لایه"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/AddWidget.cshtml
+#| msgid "Add Widget"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/AddWidget.cshtml"
+msgid "Add Widget"
+msgstr "افزودن ابزار"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/EditLayer.cshtml
+#| msgid "Edit Layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/EditLayer.cshtml"
+msgid "Edit Layer"
+msgstr "ویرایش لایه"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/EditWidget.cshtml
+#| msgid "Edit Widget"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/EditWidget.cshtml"
+msgid "Edit Widget"
+msgstr "ویرایش ابزار"
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "Manage Widgets"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Manage Widgets"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "Edit {0} layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Edit {0} layer"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "+ Add a layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "+ Add a layer"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "This is a table of the widgets currently available for use in your application."
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "This is a table of the widgets currently available for use in your application."
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml
+#| msgid "Add to zone"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Add to zone"
+msgstr ""
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Name"
+msgstr "نام"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Description"
+msgstr "توضیح"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml
+#| msgid "Layer Rule"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Layer Rule"
+msgstr "قوانین لایه"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Zone"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Zone"
+msgstr "ناحیه"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Layer"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Layer"
+msgstr "لایه"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Position"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Position"
+msgstr "موقعیت"
+
+#: ~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml
+#| msgid "Title"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Title"
+msgstr "عنوان"
+

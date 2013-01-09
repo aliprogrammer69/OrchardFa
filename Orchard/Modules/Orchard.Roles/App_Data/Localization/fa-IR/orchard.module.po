@@ -1,0 +1,347 @@
+# Orchard resource strings - fa-IR
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Roles"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Roles"
+msgstr "نقش ها"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Roles"
+msgstr "نقش ها"
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Creating Role {0} failed: Role with same name already exists"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Creating Role {0} failed: Role with same name already exists"
+msgstr "ایجاد نفش {0} ناموفق بود:نقشی با این نام در حال حاضر وجود دارد."
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "The roles module is adding the ability to assign roles to users. It's also providing a set of default roles for which other modules can define default permissions."
+msgstr "برای ماژول های دیگر ارائه می دهد تا بتوانند مجوزهای پیش فرض را تعریف کنند.ماژول نقش  توانایی اختصاص دادن نقش به کاربران را ممکن می سازد.این ماژول همچنین مجموعه ای از نقش های پیش فرض را"
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Orchard.Roles.Name"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Roles"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Orchard.Roles.Description"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Standard user roles."
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Orchard.Roles.Category"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Core"
+msgstr ""
+
+#: Orchard.Roles.AdminMenu
+#| msgid "Users"
+msgctxt "Orchard.Roles.AdminMenu"
+msgid "Users"
+msgstr "کاربران"
+
+#: Orchard.Roles.AdminMenu
+#| msgid "Roles"
+msgctxt "Orchard.Roles.AdminMenu"
+msgid "Roles"
+msgstr "نقش ها"
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Not authorized to manage roles"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Not authorized to manage roles"
+msgstr "مدیریت نقش ها مجاز نیست."
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Deleting Role failed: {0}"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Deleting Role failed: {0}"
+msgstr "حذف نقش ناموفق بود:{0}"
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Creating Role failed: {0}"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Creating Role failed: {0}"
+msgstr "ایجاد نقش ناموفق بود :{0}"
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Your Role has been saved."
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Your Role has been saved."
+msgstr "نقش شما ذخیره شده است."
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Editing Role failed: {0}"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Editing Role failed: {0}"
+msgstr "ویرایش نقش ناموفق بود:{0}"
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Role was successfully deleted."
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role was successfully deleted."
+msgstr "نقش با موفقیت حذف شد."
+
+#: Orchard.Roles.Drivers.UserRolesPartDriver
+#| msgid "Adding role {0} to user {1}"
+msgctxt "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgid "Adding role {0} to user {1}"
+msgstr "افزودن نقش {0} به کاربر {1}"
+
+#: Orchard.Roles.Drivers.UserRolesPartDriver
+#| msgid "Removing role {0} from user {1}"
+msgctxt "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgid "Removing role {0} from user {1}"
+msgstr "گرفتن نقش {0}از کاربر {1}"
+
+#: Orchard.Roles.Services.RolesBasedAuthorizationService
+#| msgid "A security exception occurred in the content management system."
+msgctxt "Orchard.Roles.Services.RolesBasedAuthorizationService"
+msgid "A security exception occurred in the content management system."
+msgstr "یک استثناء امنیتی در سیستم مدیریت محتوا اتفاق افتاده است."
+
+#: Orchard.Roles.Services.RoleService
+#| msgid "Permission {0} was not found in any of the installed modules."
+msgctxt "Orchard.Roles.Services.RoleService"
+msgid "Permission {0} was not found in any of the installed modules."
+msgstr "مجوز {0} در هیچکدام از ماژول های نصب شده پیدا نشد."
+
+#: Orchard.Roles.Services.RoleService
+#| msgid "{0} Feature"
+msgctxt "Orchard.Roles.Services.RoleService"
+msgid "{0} Feature"
+msgstr "خصیصه {0}"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Add Role"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Add Role"
+msgstr "افزودن نقش"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Information"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Information"
+msgstr "اطلاعات"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Role Name:"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Role Name:"
+msgstr ""نام نقش"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Permissions"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Permissions"
+msgstr "مجوزها"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "{0} Module"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "{0} Module"
+msgstr "ماژول {0}"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Permission"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Permission"
+msgstr "مجوز"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Allow"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Allow"
+msgstr "مجاز"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Checkbox.{0}"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Checkbox.{0}"
+msgstr "گزینه انتخابی.{0}"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Save"
+msgstr "ذخیره"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Edit Role"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Edit Role"
+msgstr "ویرایش نقش"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Information"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Information"
+msgstr "اطلاعات"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Role Name:"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Role Name:"
+msgstr "نام نقش:"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Permissions"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Permissions"
+msgstr "مجوزها"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Permission"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Permission"
+msgstr "مجوز"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Allow"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Allow"
+msgstr "مجاز"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Effective"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Effective"
+msgstr "عامل موثر"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Checkbox.{0}"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Checkbox.{0}"
+msgstr "انتخاب گزینه.{0}"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Effective.{0}"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Effective.{0}"
+msgstr "عامل موثر.{0}"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "ذخیره"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Manage Roles"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Manage Roles"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "عملیات:"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "اعمال کردن"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Add a role"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Add a role"
+msgstr "افزودن یک نقش"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "This is a table of the roles currently available for use in your application."
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "This is a table of the roles currently available for use in your application."
+msgstr " نقشهایی که در حال حاضر  برای استفاده در برنامه شمادر دسترس اند.این جدولی است از "
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "نام"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml
+#| msgid "Roles"
+msgctxt "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgid "Roles"
+msgstr "نقش ها"
+
+#: ~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml
+#| msgid "There are no roles."
+msgctxt "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgid "There are no roles."
+msgstr "نقشی وجود ندارد."
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Role name can't be empty"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role name can't be empty"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Role with same name already exists"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role with same name already exists"
+msgstr ""
+

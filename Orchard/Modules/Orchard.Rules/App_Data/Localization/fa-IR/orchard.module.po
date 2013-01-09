@@ -1,0 +1,593 @@
+# Orchard resource strings - fa-IR
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{1}\" in {0} {2}"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}s"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{1}\" in {0} {2}s"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr "قوانین"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "http://orchardrules.codeplex.com"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Provides a system de trigger actions based on events."
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Name"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr "قوانین"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Description"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Provides a system de trigger actions based on events."
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Category"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr "قوانین"
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Rules"
+msgctxt "Orchard.Rules.AdminMenu"
+msgid "Rules"
+msgstr "قوانین"
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Manage Rules"
+msgctxt "Orchard.Rules.AdminMenu"
+msgid "Manage Rules"
+msgstr "مدیریت قوانین"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Not authorized to manage rules"
+msgstr "مجاز نیست برای مدیریت قوانین"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Action Deleted"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Action Deleted"
+msgstr "عملیات حذف شد"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Save"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Save"
+msgstr "ذخیره"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to list rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to list rules"
+msgstr "مجاز نیست به لیست قوانین"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to manage rules"
+msgstr "مجاز نیست به مدیریت قوانین"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to edit rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to edit rules"
+msgstr "مجاز نیست به ویرایش قوانین"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule Saved"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule Saved"
+msgstr "قانون ذخیره شد"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule {0} deleted"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule {0} deleted"
+msgstr "قانون {0} حذف شد"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule enabled"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule enabled"
+msgstr "قانون فعال شد"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule disabled"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule disabled"
+msgstr "قانون غیرفعال شد"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Not authorized to manage rules"
+msgstr "مجاز نیست به مدیریت قوانین"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Event Deleted"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Event Deleted"
+msgstr "رویداد حذف شد"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Save"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Save"
+msgstr "ذخیره"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notification"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notification"
+msgstr "اطلاعیه"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notifications"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notifications"
+msgstr "اطلاعیه ها"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notify"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notify"
+msgstr "اطلاع دادن"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Display a message."
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Display a message."
+msgstr "نمایش یک پیغام."
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Displays \"{1}\" as {0}"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Displays \"{1}\" as {0}"
+msgstr "نمایش \"{1}\" بعنوان {0}"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Notification type"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Notification type"
+msgstr "انواع اطلاعیه"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Select what type of notification should be displayed."
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Select what type of notification should be displayed."
+msgstr "انتخاب کنید که چه نوع اطلاعیه ای باید نمایش داده شود."
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Information"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Information"
+msgstr "اطلاعات"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Warning"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Warning"
+msgstr "هشدار"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Error"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Error"
+msgstr "خطا"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Message"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Message"
+msgstr "پیام"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "The notification message to display."
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "The notification message to display."
+msgstr "پیام اطلاع رسانی برای نمایش"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "System"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "System"
+msgstr "سیستم"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Delayed Action"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Delayed Action"
+msgstr "عمل معوق"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers some actions after a specific amount of time."
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers some actions after a specific amount of time."
+msgstr "راه اندازی برخی عملیات پس از زمان مشخص."
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{0}\" in {1}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{0}\" in {1}"
+msgstr "راه اندازی \"{0}\" در {1}"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Scheduled Action"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Scheduled Action"
+msgstr "عمل برنامه ریزی شده"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers some actions at a specific date and time."
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers some actions at a specific date and time."
+msgstr "راه اندازی برخی عملیات در یک تاریخ و زمان مشخص."
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{0}\" on {1}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{0}\" on {1}"
+msgstr "راه اندازی \"{0}\" در {1}"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Amount"
+msgstr "مقدار"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount type"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Amount type"
+msgstr "نوع مقدار"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Minutes"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Minutes"
+msgstr "دقایق"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Hours"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Hours"
+msgstr "ساعات"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Days"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Days"
+msgstr "روزها"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Weeks"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Weeks"
+msgstr "هفته ها"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Months"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Months"
+msgstr "ماهها"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Rule to trigger"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Rule to trigger"
+msgstr "قانون برای راه اندازی"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Date"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Date"
+msgstr "تاریخ"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Time"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Time"
+msgstr "زمان"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide an Amount"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must provide an Amount"
+msgstr "شما باید یک مقدار ارائه دهید"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide a Type"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must provide a Type"
+msgstr "شما باید یک نوع ارائه دهید"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must select at least one Rule"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must select at least one Rule"
+msgstr "شما باید حداقل یک قانون را انتخاب نمائید"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Add an Action"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Add an Action"
+msgstr "افزودن یک عمل"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "There are no currently available actions"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "There are no currently available actions"
+msgstr "در حال حاضر هیچ عملیاتی در دسترس نیست"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Name"
+msgstr "نام"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Description"
+msgstr "توضیح"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Edit.cshtml
+#| msgid "Edit Action - {0}"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Edit.cshtml"
+msgid "Edit Action - {0}"
+msgstr "ویرایش اقدام -{0}"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Create New Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "Create New Rule"
+msgstr "ایجاد قانون جدید"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "The name of the Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "The name of the Rule"
+msgstr "نام قانون"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "Save"
+msgstr "ذخیره"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Edit Rule"
+msgstr "ویرایش قانون"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "The name of the Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "The name of the Rule"
+msgstr "نام قانون"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Events"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Events"
+msgstr "رویدادها"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Event"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Add a new Event"
+msgstr "افزودن یک رویداد جدید"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Description"
+msgstr "توضیح"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Actions"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Actions"
+msgstr "عملیات"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Action"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Add a new Action"
+msgstr "افزودن یک عمل جدید"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Up"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Up"
+msgstr "بالا"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Down"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Down"
+msgstr "پائین"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "ذخیره"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save and Enable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Save and Enable"
+msgstr "ذخیره و فعال سازی"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Manage Rules"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Manage Rules"
+msgstr "مدیریت قوانین"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Add a new Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Add a new Rule"
+msgstr "افزودن یک قانون جدید"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "عملیات:"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "انتخاب عمل ..."
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Enable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Enable"
+msgstr "فعال "
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Disable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Disable"
+msgstr "غیر فعال"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "حذف"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "مرتب سازی براساس:"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "نام"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Email"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Email"
+msgstr "ایمیل"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "نمایش"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "All"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "همه"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "فیلتر"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Creation"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Creation"
+msgstr "ایجاد"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Add an Event"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Add an Event"
+msgstr "افزدن یک رویداد"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "There are no currently available events"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "There are no currently available events"
+msgstr "در حال حاضر هیچ رویدادی در دسترس نیست"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Name"
+msgstr "نام"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Description"
+msgstr "توضیح"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Edit.cshtml
+#| msgid "Edit Event - {0}"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Edit.cshtml"
+msgid "Edit Event - {0}"
+msgstr "ویرایش رویداد - {0}"
+

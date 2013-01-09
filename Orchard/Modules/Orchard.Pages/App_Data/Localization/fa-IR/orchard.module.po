@@ -1,0 +1,53 @@
+# Orchard resource strings - fa-IR
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "The Orchard Team"
+msgstr "تیم ارچارد"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Introduces a preconfigured page content type."
+msgstr "معرفی یک نوع صفحه محتوای از قبل پیکربندی شده"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Orchard.Pages.Name"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Pages"
+msgstr ""
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Orchard.Pages.Description"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "A basic page content type."
+msgstr ""
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Orchard.Pages.Category"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Content"
+msgstr ""
+
+#: Orchard.Pages.Commands.PageCommands
+#| msgid "Page created successfully."
+msgctxt "Orchard.Pages.Commands.PageCommands"
+msgid "Page created successfully."
+msgstr "صفحه با موفقیت ایجاد شد."
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Pages"
+msgstr "صفحات"
+
