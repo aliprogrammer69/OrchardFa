@@ -22,6 +22,9 @@ Notice that this repository only contains ready to use version of **OrchardFa**.
 
 You can find some RTL themes in Orchard gallery. To find them, in Dashboard, click on Themes in navigation menu, then on Gallery tab, search for RTL tag. Choose a theme and click on Install link.
 
+Here is [my ContosoRTL theme][2], give it a try!
+
+[2]:http://gallery.orchardproject.net/List/Themes/Orchard.Theme.ContosoRTL
 
 **Issues:**
 This project is not ready for commercial use, and there are known issues. As you probably saw, Dashboard menu's icons should be aligned at right. Also most of strings are not translated. so don't be shy and feel free to Fork **OrchardFa** and improve it!
