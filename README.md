@@ -1,4 +1,4 @@
-**OrchardFa, a happy and delicious version of Orchard CMS!**
+**OrchardFa, a happy and delicious version of Orchard CMS in Persian!**
 =
 
 Here is Orchard in Farsi!
